@@ -1,0 +1,3 @@
+[submodule "Soap/vendor/spdlog"]
+	path = Soap/vendor/spdlog
+	url = https://github.com/gabime/spdlog
